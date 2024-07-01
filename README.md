@@ -4,9 +4,10 @@ This project is a simple To-Do List application created using HTML, CSS, and Jav
 
 ## Demo
 
-![Screenshot of the To-Do List](images/screenshot.png)
+![Screenshot of the To-Do List]
+![Screenshot (213)](https://github.com/Ark898/to-do-list/assets/137332440/e8893dff-fd35-4bd4-8cd5-13ce28586f6e)
 
-You can view a live demo of the project [here](https://your-username.github.io/todo-list/).
+You can view a live demo of the project [here](https://ark898.github.io/to-do-list/).
 
 ## Features
 
